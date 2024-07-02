@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.iphone"},{"l":"com.iphone.camera"},{"l":"com.iphone.mensagens"},{"l":"com.iphone.navegador"},{"l":"com.iphone.organizador"},{"l":"com.iphone.reprodutor"},{"l":"com.iphone.telefone"}];updateSearchResults();
